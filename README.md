@@ -3,6 +3,7 @@
 * Oct. 6: [Computational science, quantum computing, and data compression](2022/DataCompression_2022_No1.pdf) (Okubo)
 * Oct. 13: [Review of linear algebra](2022/DataCompression_2022_No2.pdf) (Okubo)
 * Oct. 20: [Singular value decomposition](2022/DataCompression_2022_No3.pdf) (Okubo)
+* Oct. 27: [Application of SVD and generalization to tensors](2022/DataCompression_2022_No4.pdf) (Okubo)
 
 ## Pilot lecture
 * Day 1: [Tensor Network and Tensor Renormalization Group](DataCompression_PilotLecture_No1.pdf) (Okubo)
