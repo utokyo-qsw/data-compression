@@ -7,6 +7,7 @@
 * Nov. 10: [Entanglement of information and matrix product states](2022/DataCompression_2022_No5.pdf) (Okubo)
 * Nov. 24: [Application of MPS to eigenvalue problems](2022/DataCompression_2022_No6.pdf) (Todo)
 * Dec. 1: [Tensor network representations](2022/DataCompression_2022_No7.pdf) (Okubo)
+* Dec. 8: [Data compression in tensor network](2022/DataCompression_2022_No8.pdf) (Okubo)
 
 
 ## Pilot lecture
