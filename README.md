@@ -8,6 +8,7 @@
 * Nov. 24: [Application of MPS to eigenvalue problems](2022/DataCompression_2022_No6.pdf) (Todo)
 * Dec. 1: [Tensor network representations](2022/DataCompression_2022_No7.pdf) (Okubo)
 * Dec. 8: [Data compression in tensor network](2022/DataCompression_2022_No8.pdf) (Okubo)
+* Dec. 15: [Tensor renormalization](2022/DataCompression_2022_No9.pdf) (Okubo)
 
 
 ## Pilot lecture
